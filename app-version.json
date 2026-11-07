@@ -1,7 +1,7 @@
 {
-  "version": 2,
-  "notes": "Updates itself: the app refreshes after site updates and can download its own new versions.",
+  "version": 3,
+  "notes": "The phone's Back button now goes to the previous page instead of closing the app.",
   "file": "JNV-Wargal-Alumni.apk",
-  "built_at": "2026-11-06T04:55:07.460Z",
-  "published_at": "2026-11-07T02:05:07.936Z"
+  "built_at": "2026-11-07T09:40:17.901Z",
+  "published_at": "2026-11-07T09:51:48.612Z"
 }
