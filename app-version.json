@@ -1,7 +1,7 @@
 {
-  "version": 3,
-  "notes": "The phone's Back button now goes to the previous page instead of closing the app.",
+  "version": 4,
+  "notes": "Notifications: help requests, replies and updates now appear on your phone even when the app is closed.",
   "file": "JNV-Wargal-Alumni.apk",
-  "built_at": "2026-11-07T09:40:17.901Z",
-  "published_at": "2026-11-07T09:51:48.612Z"
+  "built_at": "2026-11-09T11:20:35.603Z",
+  "published_at": "2026-11-09T11:22:40.957Z"
 }
