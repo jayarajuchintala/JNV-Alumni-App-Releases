@@ -1,8 +1,8 @@
 # JNV Wargal Alumni: Android app
 
-## [📱 Download the app (version 4, 5.9 MB)](https://github.com/jayarajuchintala/JNV-Alumni-App-Releases/raw/main/JNV-Wargal-Alumni.apk)
+## [📱 Download the app (version 5, 5.5 MB)](https://github.com/jayarajuchintala/JNV-Alumni-App-Releases/raw/main/JNV-Wargal-Alumni.apk)
 
-Notifications: help requests, replies and updates now appear on your phone even when the app is closed.
+Gate scan: volunteers can now scan ID card QR codes with the camera inside the app.
 
 **Install:** open the link on your Android phone in Chrome, tap **Download**, then open the file and tap **Install**.
 If Android asks, allow **Install unknown apps** for Chrome. Already have the app? Installing the new version keeps

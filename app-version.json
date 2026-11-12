@@ -1,7 +1,7 @@
 {
-  "version": 4,
-  "notes": "Notifications: help requests, replies and updates now appear on your phone even when the app is closed.",
+  "version": 5,
+  "notes": "Gate scan: volunteers can now scan ID card QR codes with the camera inside the app.",
   "file": "JNV-Wargal-Alumni.apk",
-  "built_at": "2026-11-09T11:20:35.603Z",
-  "published_at": "2026-11-09T11:22:40.957Z"
+  "built_at": "2026-11-12T20:29:34.745Z",
+  "published_at": "2026-11-12T20:30:53.507Z"
 }
