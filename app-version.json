@@ -1,7 +1,7 @@
 {
-  "version": 5,
-  "notes": "Gate scan: volunteers can now scan ID card QR codes with the camera inside the app.",
+  "version": 6,
+  "notes": "Share your ID card: the ID card page now has a Share button that opens WhatsApp and other apps.",
   "file": "JNV-Wargal-Alumni.apk",
-  "built_at": "2026-11-12T20:29:34.745Z",
-  "published_at": "2026-11-12T20:30:53.507Z"
+  "built_at": "2026-11-21T08:14:21.697Z",
+  "published_at": "2026-11-21T08:20:34.389Z"
 }
